@@ -1,0 +1,30 @@
+Git commands:
+
+
+git config --global user.email "suchitsheth42@gmail.com"
+git config --global user.name "suchit"
+
+
+
+
+
+
+
+2.git init
+3.git clone
+4.git add
+5.git commit
+6.git status
+7.git log
+8.git branch
+9.git push origin : newBranch
+10.git checkout
+11.git merge
+12.git remote add 
+13.git push
+14.git clone
+
+
+
+"
+
