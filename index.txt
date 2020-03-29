@@ -25,6 +25,26 @@ git config --global user.name "suchit"
 14.git clone
 
 
+--------------------------------------------------------------
 
-"
+
+git : VCS--->version control system
+GitHub :----> having your repo/folder and  project colloaboration platform
+
+git command:
+
+git config --global user.email "suchitsheth42@gmail.com" -->once
+git config --global user.name "suchit"-->once
+
+1.git init    --->only once
+2.git add . 
+3.git commit -m "Message for Version"
+4.git add remote origin https://  ------>only once
+5.git push -u origin master
+
+
+Repetitive commands:
+git add .
+git commit -m "msg"
+git push origin master
 
